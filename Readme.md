@@ -1,5 +1,5 @@
 ### Hi there, I'm Shashwat 👋
-<br/>
+
 <a href="https://linkedin.com/in/shashwat-pathak/">
   <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
 </a>
