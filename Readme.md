@@ -4,12 +4,12 @@
   <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
 </a>
 
-<a href="https://www.instagram.com/desii.me.rollin/">
-  <img align="left" alt="Harkirat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" rel="noopener noreferrer"/>
-</a>
+<!--<a href="url">
+  <img align="left" alt="my insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" rel="noopener noreferrer"/>
+</a> -->
 
-![](https://komarev.com/ghpvc/?username=DCYPHERR)
-<br />
+<!-- ![](https://komarev.com/ghpvc/?username=Shashwat-05)
+<br /> -->
 
 Hi, I'm Shashwat Pathak, a pre-final year student at Abdul Kalam Technical University, Uttar Pradesh, India. I am a DevOps, Cloud, Development & Linux Administration Enthusiast.
 
@@ -17,7 +17,7 @@ Hi, I'm Shashwat Pathak, a pre-final year student at Abdul Kalam Technical Unive
 
 
 - 🌱 I’m currently learning Go and monitoring.
-- 👯 I’m looking to get experience on Python or DevOps related roles!
+- 👯 I’m looking to get experience in Python or DevOps related roles!
 - 💬 Looking to collaborate with similar domain experts.
 - 📫 Contact Me : shashwatpathak100@gmail.com
 
