@@ -17,8 +17,8 @@ Hi, I'm Shashwat Pathak, a pre-final year student at Abdul Kalam Technical Unive
 
 
 - 🌱 I’m currently learning Go and monitoring.
-- 👯 I’m looking to get experience in Python or DevOps related roles!
-- 💬 Looking to collaborate with similar domain experts.
+- 👯 I’m looking to get experience in Cloud &  DevOps related roles!
+- 💬 Looking to connectwith similar domain experts.
 - 📫 Contact Me : shashwatpathak100@gmail.com
 
 
