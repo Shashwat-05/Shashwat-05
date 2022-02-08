@@ -16,7 +16,7 @@ Hi, I'm Shashwat Pathak, a pre-final year student at Abdul Kalam Technical Unive
 <img align="right" height="250px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
 
 
-- 🌱 I’m currently learning Openshift.
+- 🌱 I’m currently learning Openshift & GCP.
 - 👯 I’m looking to get experience in Cloud &  DevOps related roles!
 - 💬 Looking to connectwith similar domain experts.
 - 📫 Contact Me : shashwatpathak100@gmail.com
