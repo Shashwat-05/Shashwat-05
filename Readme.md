@@ -27,7 +27,7 @@ My name is Shashwat Pathak, a pre-final year student at SRMS CET Bareilly, Uttar
 <br/>
 
 - 💬 Looking forward to connect with you :) .
-- 📫 Contact Me : shashwatpathak100@gmail.com 😄
+- 📫 Contact Me : shashwatpathak100@gmail.com 😄 </br>
 My LinkedIn - 
 <a href="https://linkedin.com/in/shashwat-pathak/">
   <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
