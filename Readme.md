@@ -1,28 +1,17 @@
-### Hi there, I'm Shashwat 👋
-
-
-<!--<a href="url">
-  <img align="left" alt="my insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" rel="noopener noreferrer"/>
-</a> -->
-
-<!-- ![](https://komarev.com/ghpvc/?username=Shashwat-05)
- -->
+### Hi, I'm Shashwat 👋
 <br />
-Hi, I'm Shashwat Pathak, a pre-final year student at Abdul Kalam Technical University, Uttar Pradesh, India. I am a DevOps, Cloud, Development & Linux Administration Enthusiast.
+
+### About me-
+I'm  pre-final year student at SRMS CET Bareilly, Uttar Pradesh, India. 
+I am a DevOps & Cloud Engineer.
+Here's my LinkedIn : <a href="https://linkedin.com/in/shashwat-pathak/">
+  <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
+</a>
 
 <img align="right" height="250px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
 
 
-- 🌱 I’m currently learning Openshift & GCP.
-- 👯 I’m looking for DevOps and Cloud internships!
-- 💬 Looking forward to connect with you :) .
-- 📫 Contact Me : shashwatpathak100@gmail.com or 
-- My socials : <a href="https://linkedin.com/in/shashwat-pathak/">
-  <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
-</a>
-
-
-### **Languages and Tools:** 
+### **I'm skilled at :** 
 <br>
 <code><img height="35" src="https://github.com/Shashwat-05/Shashwat-05/blob/master/jenkins.png?raw=true"></code>
 <code><img height="35" src="https://github.com/Shashwat-05/Shashwat-05/blob/master/ansible.png?raw=true"></code>
@@ -44,5 +33,7 @@ Hi, I'm Shashwat Pathak, a pre-final year student at Abdul Kalam Technical Unive
 <code><img height="35" src="https://github.com/Shashwat-05/Shashwat-05/blob/master/prometheus.png?raw=true"></code>
 <br/>
 
+- 💬 Looking forward to connect with you :) .
+- 📫 Contact Me : shashwatpathak100@gmail.com 😄
 
 
