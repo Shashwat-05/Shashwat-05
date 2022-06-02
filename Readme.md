@@ -3,7 +3,6 @@ My name is Shashwat Pathak, a pre-final year student at SRMS CET Bareilly, Uttar
 
 <img align="right" height="250px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
 
-
 ### **I'm skilled at :** 
 <br>
 <code><img height="35" src="https://github.com/Shashwat-05/Shashwat-05/blob/master/jenkins.png?raw=true"></code>
