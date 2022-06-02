@@ -1,12 +1,5 @@
-### Hi, I'm Shashwat 👋
-<br />
-
-### About me-
-I'm  pre-final year student at SRMS CET Bareilly, Uttar Pradesh, India. 
-I am a DevOps & Cloud Engineer.
-Here's my LinkedIn : <a href="https://linkedin.com/in/shashwat-pathak/">
-  <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
-</a>
+### About me -
+My name is Shashwat Pathak, a pre-final year student at SRMS CET Bareilly, Uttar Pradesh, India. I am a DevOps & Cloud Engineer.
 
 <img align="right" height="250px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
 
@@ -35,5 +28,7 @@ Here's my LinkedIn : <a href="https://linkedin.com/in/shashwat-pathak/">
 
 - 💬 Looking forward to connect with you :) .
 - 📫 Contact Me : shashwatpathak100@gmail.com 😄
-
-
+My LinkedIn - 
+<a href="https://linkedin.com/in/shashwat-pathak/">
+  <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
+</a>
