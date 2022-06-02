@@ -16,7 +16,8 @@ Hi, I'm Shashwat Pathak, a pre-final year student at Abdul Kalam Technical Unive
 - 🌱 I’m currently learning Openshift & GCP.
 - 👯 I’m looking for DevOps and Cloud internships!
 - 💬 Looking forward to connect with you :) .
-- 📫 Contact Me : shashwatpathak100@gmail.com or <a href="https://linkedin.com/in/shashwat-pathak/">
+- 📫 Contact Me : shashwatpathak100@gmail.com or 
+<a href="https://linkedin.com/in/shashwat-pathak/">
   <img align="left" alt="Shashwat's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white"/>
 </a>
 
