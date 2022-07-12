@@ -1,5 +1,5 @@
 ### About me -
-My name is Shashwat Pathak, a pre-final year student at SRMS CET Bareilly, Uttar Pradesh, India. I am a DevOps & Cloud Engineer.
+My name is Shashwat Pathak, a final year student at SRMS CET Bareilly, Uttar Pradesh, India. I am a DevOps & Cloud Engineer.
 
 <img align="right" height="250px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
 
