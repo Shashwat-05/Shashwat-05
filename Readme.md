@@ -1,5 +1,5 @@
 ### About me -
-My name is Shashwat Pathak, A Btech. Graduate, currently working with facets.cloud as an Infrastructure Engineer to boost up Platform Engineering :D
+My name is Shashwat Pathak, A Btech. Graduate, currently working with facets.cloud as an Infrastructure Engineer and learning as well as practicing platform engineering :)
 <img align="right" height="250px" alt="" src="https://user-images.githubusercontent.com/69909172/135727032-fc7b1abb-aeab-4842-b307-c62158a5cc6a.gif" />
 
 ### **I'm skilled at :** 
